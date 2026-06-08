@@ -7,7 +7,7 @@ public:
         vector<int> p;
         for(int i : nums)
         {
-            if(i<pivot) .push_back(i);
+            if(i<pivot) p.push_back(i);
         }
         for(int i : nums)
         {
