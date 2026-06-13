@@ -12,11 +12,11 @@ public:
             {
                 sum+=weights[words[i][j]-'a'];
             }
-            s+='a'+(26 - sum%26 -1) ;
+            s+='a'+(25 - sum%26) ;
         }
         return s;
     }
-};
+};;
 
 int main(){
     
