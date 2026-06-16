@@ -17,8 +17,3 @@ I use this repository to:
 
 - C++
 
-## Repository Structure
-
-```text
-DSA-QUESTIONS/
-└── Leetcode/
